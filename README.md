@@ -7,3 +7,5 @@
 [Лекция 1, задание 1](https://github.com/BNastya8/System_analysis/blob/main/lecture_1.task_1.ipynb)
 
 [Лекция 1, задание 2](https://github.com/BNastya8/System_analysis/blob/main/lecture_1.task_2.ipynb)
+
+[Лекция 2, задание 1]()
